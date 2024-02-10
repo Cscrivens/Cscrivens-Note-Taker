@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 ## Screenshots
-![Alt text](<Screenshot 2024-02-10 141756.png>)
+(<Screenshot 2024-02-10 141756.png>)
 
 ## Description
 This application allows users to use as a daily Note Taker allowing users to write and save notes.
