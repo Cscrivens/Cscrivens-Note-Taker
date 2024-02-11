@@ -10,10 +10,6 @@
 - [Test](#test)
 - [Questions](#questions)
 
-## Screenshots
-![Screenshot of Application](https://github.com/Cscrivens/Cscrivens-Note-Taker/blob/main/screenshots/screenshot2024-02-10.png)
-
-
 ## Description
 This application allows users to use as a daily Note Taker allowing users to write and save notes.
 Keeps tracks of dates and tasked until completed.
