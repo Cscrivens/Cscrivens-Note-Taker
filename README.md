@@ -14,6 +14,7 @@
 This application allows users to use as a daily Note Taker allowing users to write and save notes.
 Keeps tracks of dates and tasked until completed.
 
+##Screenshots
 ![Screenshot 1](https://github.com/yourusername/Cscrivens-Note-Taker/blob/main/Screenshots/Screenshot%202024-02-10%20141756.png)
 
 
