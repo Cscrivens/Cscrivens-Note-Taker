@@ -3,12 +3,13 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Screenshot](#Screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Test](#test)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## Description
 This application allows users to use as a daily Note Taker allowing users to write and save notes.
@@ -43,5 +44,9 @@ n/a
 ## Test
 
 No testing required.
+
+## Contact 
+Github: https://github.com/Cscrivens/Cscrivens-Note-Taker.git 
+Email: Lil_bitty80@yahoo.com
 
 
