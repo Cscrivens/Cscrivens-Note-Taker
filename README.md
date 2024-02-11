@@ -46,7 +46,7 @@ n/a
 No testing required.
 
 ## Contact 
-Github: https://github.com/Cscrivens/Cscrivens-Note-Taker.git 
-Email: Lil_bitty80@yahoo.com
+Github: (https://github.com/Cscrivens)
+
 
 
