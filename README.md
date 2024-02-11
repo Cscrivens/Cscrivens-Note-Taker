@@ -17,6 +17,11 @@ Keeps tracks of dates and tasked until completed.
 ## Screenshot
 ![Screenshot 2024-02-10 141756](Screenshots/Screenshot%202024-02-10%20141756.png)
 
+## Screenshot creating new note
+![Screenshot 2024-02-10 143343](Screenshots/Screenshot%202024-02-10%20143343.png)
+
+## Screenshot new note created and saved
+![Screenshot 2024-02-10 143427](Screenshots/Screenshot%202024-02-10%20143427.png)
 
 ## Installation
 
